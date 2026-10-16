@@ -7,6 +7,6 @@
 - 📫 联系我：[qq: `254633702@qq.com` | 微信: `maxtutu12`]
 
 ### 💻 技术栈
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=rust,go,c,ts,js,python" alt="语言" />
 </p>
